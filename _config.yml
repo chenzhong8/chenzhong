@@ -16,7 +16,7 @@ repository    : "chenzhong8/chenzhong8.github.io"       # owner/repo
 # Author (sidebar profile)
 # ================================
 author:
-  avatar   : "images/Chen Zhong photo.JPG"                 # put file at /images/chen-zhong.jpg
+  avatar   : "images/chen_zhong.JPG"                 # put file at /images/chen-zhong.jpg
   name     : "Chen ZHONG"
   pronouns : "she/her"
   bio      : "PhD Candidate in Political Science"
