@@ -12,10 +12,10 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Chen Zhong"
 title_separator          : "-"
 name                     : &name "Chen Zhong"
-description              : &description "Chen Zhong’s academic portfolio"
-url                      : https://academicpages.github.io
-baseurl                  : ""
-repository               : "academicpages/academicpages.github.io"
+#description              : &description "Chen Zhong’s academic portfolio"
+url: "https://chenzhong8.github.io"
+repository: "chenzhong8/chenzhong8.github.io"
+timezone: "America/Toronto"
 
 # Site Author - controls what's shown in the sidebar profile
 author:
