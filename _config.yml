@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Chen Zhong"
 #description              : &description "Chen Zhong’s academic portfolio"
 url: "https://chenzhong8.github.io"
-repository: "chenzhong8/chenzhong8.github.io"
+repository: "chenzhong8/chenzhong.github.io"
 timezone: "America/Toronto"
 
 # Site Author - controls what's shown in the sidebar profile
