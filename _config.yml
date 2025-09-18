@@ -7,6 +7,7 @@
 # server process.
 
 # Basic Site Settings
+# Basic Site Settings
 locale                   : "en-CA"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Chen Zhong"
@@ -14,13 +15,15 @@ title_separator          : "-"
 name                     : &name "Chen Zhong"
 #description              : &description "Chen Zhong’s academic portfolio"
 url: "https://chenzhong8.github.io"
-repository: "chenzhong8/chenzhong.github.io"
+baseurl: "/chenzhong"     # <-- important for project sites
+repository: "chenzhong8/chenzhong"
 timezone: "America/Toronto"
+
 
 # Site Author - controls what's shown in the sidebar profile
 author:
   # Biographic information
-  avatar           : "images/chen_zhong.JPG"   # make sure this file exists
+  avatar: "/chenzhong/images/chen_zhong.JPG"
   name             : "Chen ZHONG"
   pronouns         : "she/her"
   bio              : "PhD Candidate in Political Science"
