@@ -23,7 +23,7 @@ timezone: "America/Toronto"
 # Site Author - controls what's shown in the sidebar profile
 author:
   # Biographic information
-  avatar: "/chenzhong/images/chen_zhong.JPG"
+  avatar: "images/chenzhong.JPG"
   name             : "Chen ZHONG"
   pronouns         : "she/her"
   bio              : "PhD Candidate in Political Science"
