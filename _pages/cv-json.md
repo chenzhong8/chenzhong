@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv-json/
-author_profile: false
+permalink: /cv/
+author_profile: true
 redirect_from:
-  - /resume-json
+  - /resume
 ---
 
 {% include base_path %}
@@ -12,6 +12,6 @@ redirect_from:
 {% include cv-template.html %}
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
+  <a href="{{ '/files/CV_Zhong_0822_2025.pdf' | relative_url }}" class="btn btn--primary">Download CV (PDF)</a>
+  <a href="{{ '/publications/' | relative_url }}" class="btn">See Publications</a>
 </div>
