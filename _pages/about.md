@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Chen is a PhD candidate  in the Department of Political Science, and a Junior Fellow at Massey College, University of Toronto. Her dissertation examines the contributions and limitations of intergovernmental summits, such as the Group of Twenty and the East Asia Summit, in global climate governance. Before joining U of T, Chen worked as a climate policy intern at UNDP headquarters from 2019 to 2020, supported by the China Scholarship Council. She was also a recipient of the MEXT Japanese Government Scholarship.
+Welcome! I am a PhD Candidate in Political Science at the University of Toronto.  
+My research focuses on global climate governance, with a dissertation on inter-state summits and climate commitments.
 
 [📄 Download my CV](files/CV_Zhong_0822_2025.pdf){:target="_blank"}
 
