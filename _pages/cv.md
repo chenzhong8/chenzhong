@@ -11,54 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **PhD Candidate in Political Science**, University of Toronto, Toronto, Canada (Expected 2026)  
+  * Majors: International Relations & Comparative Politics  
+  * Research Interests: Political Economy of Climate Change & International Institutions  
+  * Dissertation: *Inter-State Pseudo Clubs in Global Climate Governance – Understanding and Explaining High-Emitting Countries’ Informal Climate Commitments Between 2015 and 2025*  
+  * Committee: Steven Bernstein (Chair), Jessica Green, Matthew Hoffmann  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **MSc in International Political Economy (Research Track) with High Merit**,  
+  London School of Economics and Political Science (LSE), United Kingdom (2019)  
+  * Dissertation (Distinction): *Orchestrating Climate Adaptation and Mitigation Activities – World Bank in the Governance of Carbon Funds*  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **BSc in International Relations and Peace Studies**,  
+  Ritsumeikan Asia Pacific University (APU), Oita, Japan (2018)  
+  * GPA: 3.9/4.0  
+  * Highest Academic Merit Award  
+  * Outstanding Thesis Award: *Bargaining between Local Governments of China and Multinational Corporations in the Automotive Industry*  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
