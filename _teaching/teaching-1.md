@@ -1,11 +1,10 @@
 ---
 title: "Teaching Experience"
 collection: teaching
-type: "Undergraduate and Graduate Teaching"
 permalink: /teaching/teaching-experience
-venue: "University of Toronto & Ritsumeikan Asia Pacific University"
-date: 2014-01-01
-location: "Toronto, Canada; Beppu, Japan"
+layout: single
+author_profile: true
+date: 2014-01-01   # can leave as a placeholder, just don't set it in the future
 ---
 
 This page summarizes my teaching training, certificates, and assistantships.  
